@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter Variable", system-ui, sans-serif;
+  --font-display: "Fraunces Variable", Georgia, serif;
+
+  --color-papier: #f2e8d8;     /* fond, papier chaud */
+  --color-papier-2: #e7d9bb;   /* fond secondaire, encadrés */
+  --color-ligne: #d6c39b;      /* séparateurs */
+  --color-bordure: #a98f62;
+  --color-encre: #2a2117;      /* texte principal */
+  --color-encre-2: #4f4330;
+  --color-estompe: #857a62;    /* texte secondaire */
+  --color-bois: #a04f1f;       /* accent */
+  --color-bois-fonce: #7a3b15;
+}
